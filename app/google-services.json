@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031798123320",
+    "project_id": "balkrushnasupermarket",
+    "storage_bucket": "balkrushnasupermarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031798123320:android:ad8e5e7a28761e12a4afcd",
+        "android_client_info": {
+          "package_name": "com.ygs.balkrushnasupermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031798123320-jj2qpaqia6p10gihscuon3j3a9rfpllq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyBOz7IuFYeDo4_nye4fMTIEHmrIAoHgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031798123320-jj2qpaqia6p10gihscuon3j3a9rfpllq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
